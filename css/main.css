@@ -433,7 +433,7 @@ body.mobile-nav-active #mobile-nav-toggle{color:#fff;}
 .primary-btn.white:hover{background:#fff;color:#235ee7;}
 .primary-btn.white:hover span{color:#235ee7;}
 .overlay{position:absolute;left:0;right:0;top:0;bottom:0;}
-.banner-area{background:url(../img/header-bg.png) center;background-size:cover;}
+.banner-area{background:url(../img/header-bg.jpg) center;background-size:cover;}
 .banner-content{margin-top:-309px;text-align:center;}
 .banner-content h1{color:#e9ecef;font-size:50px;font-weight:700;line-height:1em;margin-top:20px;margin-bottom:18px;text-shadow:-2px 1.5px 9px #000000;}
 .banner-content h1 span{font-weight:700;}
